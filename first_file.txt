@@ -1,4 +1,5 @@
 I am Sree from Zilogic
 Now i am studying Git
 
-new branch bug
+new branch bug added
+now we can modify the changes in bug branch
