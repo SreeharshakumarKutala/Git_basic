@@ -3,3 +3,5 @@ Now i am studying Git
 
 new branch bug added
 now we can modify the changes in bug branch
+we can do changes in file
+
